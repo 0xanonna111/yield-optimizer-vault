@@ -1,0 +1,12 @@
+{
+  "name": "yield-optimizer-vault",
+  "version": "1.0.0",
+  "description": "DeFi Yield Aggregator Vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
